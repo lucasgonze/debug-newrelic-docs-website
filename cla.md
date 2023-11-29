@@ -1,3 +1,4 @@
+DEBUG
 # NEW RELIC, INC.
 ## INDIVIDUAL CONTRIBUTOR LICENSE AGREEMENT
 Thank you for your interest in contributing to the open source projects of New Relic, Inc. (“New Relic”). In order to clarify the intellectual property license granted with Contributions from any person or entity, New Relic must have a Contributor License Agreement ("Agreement") on file that has been signed by each Contributor, indicating agreement to the license terms below. This Agreement is for your protection as a Contributor as well as the protection of New Relic; it does not change your rights to use your own Contributions for any other purpose.
